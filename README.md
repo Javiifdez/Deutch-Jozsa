@@ -6,7 +6,8 @@ Deutch algorithm solves the parity problem for functios such us:
 $$
 \sum \;\; \longrightarrow \sum
 $$
-The output will be 0 
+The outputs will be: $ 0 \Leftrightarrow \;  constant
+    1 \Leftrightarrow $
 
 Deutch-Jozsa algorithm is the extension of the Deutch algorithm for functions such us:
 $$
