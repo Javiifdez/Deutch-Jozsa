@@ -20,7 +20,7 @@ Being $ n $ the number of qubits.
 
 ## Proyect description
 
-This proyect will consist in the implementation of the Deutch-Jozsa algorith
+This proyect will consist in the implementation of the Deutch-Jozsa algorithm using Qiskit
 
 
 
