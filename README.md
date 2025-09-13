@@ -1,6 +1,10 @@
-# Deutsch-Jozsa-algorith-implementation
+# Deutsch-Jozsa-algorithm-implementation
 
-## Algorith description
+## Introduction
+The Deutsch–Jozsa algorithm distinguishes between constant and balanced functions exponentially faster than any classical deterministic algorithm. Even if it is not a usefull algorithm in a practical way, it is a simple example to show the quantum advantage.
+
+
+## Algorithm description
 Deutsch algorithm solves the parity problem for functions such us:
 
 $$
@@ -17,12 +21,15 @@ Deutsch-Jozsa algorithm is the extension of the Deustch algorithm for functions 
 $$\sum^n \;\;\longrightarrow\;\; \sum \; , \quad n \geq 1 $$
 
 
-## Project description
 
-This project will consist in the implementation of the Deutch-Jozsa algorithm using Qiskit  and classical python. Finally, it will compare the quantum advantage with the classical implementation.
+## Implementation
+
+## Referances 
+
+https://quantum.cloud.ibm.com/learning/en/modules/computer-science/deutsch-jozsa
 
 
+## To-do
 
-
-
+AÑADIR REFERENCIA A PRIMERA PARTE "ALGORITHM DESCRIPTION" ALGO COMO  SEE ...
 
