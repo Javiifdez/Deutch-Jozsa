@@ -1,7 +1,7 @@
-# Deutch-Jozsa-algorith-implementation
+# Deutsch-Jozsa-algorith-implementation
 
 ## Algorith description
-Deutch algorithm solves the parity problem for functios such us:
+Deutsch algorithm solves the parity problem for functions such us:
 
 $$
 \sum \;\; \longrightarrow \sum
@@ -12,15 +12,14 @@ $$  0 \Leftrightarrow \; constant $$
 $$ 1 \Leftrightarrow \; balanced$$
 
 <br>
-Deutch-Jozsa algorithm is the extension of the Deutch algorithm for functions such us:
+Deutsch-Jozsa algorithm is the extension of the Deustch algorithm for functions such us:
 
 $$\sum^n \;\;\longrightarrow\;\; \sum \; , \quad n \geq 1 $$
 
-Being $ n $ the number of qubits.
 
-## Proyect description
+## Project description
 
-This proyect will consist in the implementation of the Deutch-Jozsa algorithm using Qiskit
+This project will consist in the implementation of the Deutch-Jozsa algorithm using Qiskit  and classical python. Finally, it will compare the quantum advantage with the classical implementation.
 
 
 
