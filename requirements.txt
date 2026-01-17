@@ -1,0 +1,6 @@
+qiskit
+qiskit_ibm_runtime
+numpy
+matplotlib
+ipywidgets
+python-dotenv
