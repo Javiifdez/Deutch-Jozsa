@@ -4,3 +4,5 @@ numpy
 matplotlib
 ipywidgets
 python-dotenv
+ipykernel
+
