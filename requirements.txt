@@ -5,4 +5,5 @@ matplotlib
 ipywidgets
 python-dotenv
 ipykernel
-
+qiskit_aer
+pylatexenc
