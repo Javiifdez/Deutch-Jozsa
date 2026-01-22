@@ -1,4 +1,4 @@
-# Ignorar archivos de entorno y configuraciones locales
+# Ignore files
 .env
 .ipynb_checkpoints/
 __pycache__/
